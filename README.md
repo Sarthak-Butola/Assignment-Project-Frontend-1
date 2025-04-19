@@ -1,35 +1,23 @@
-# React + Vite
+ALL ISSUES:
+![Screenshot dashboard all isssues](https://github.com/user-attachments/assets/11a31c0c-fe68-434e-93fe-f09c52e403f6)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+HIGH PRIORITY ISSUES SORTED:
+![high priority issues](https://github.com/user-attachments/assets/983754d8-7ce9-440a-b3aa-a671092055fc)
 
-Currently, two official plugins are available:
+LOW PRIORITY ISSUES SORTED:
+![low](https://github.com/user-attachments/assets/ad579677-74d8-4796-8d96-f9640af4c8a5)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+MEDIUM PRIORITY ISSUES SORTED:
+![medium](https://github.com/user-attachments/assets/78fa28ad-da10-4d0a-a5a3-4c87d5c040a8)
 
-## Expanding the ESLint configuration
+CREATE NEW ISSUE:
+![Screenshot 5 ass project ](https://github.com/user-attachments/assets/c3c7f23b-2a31-4c33-b465-572a503212e3)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+EDIT ISSUE:
+![Screenshot 6 ass proj](https://github.com/user-attachments/assets/7f7bc634-8ac7-4da4-953a-e016737c1671)
 
+DELETE ISSUE:
+![deletion](https://github.com/user-attachments/assets/49d03380-7a74-4649-9482-cff9d769beb0)
 
-
-
-
-src/
-│
-├── components/         # Reusable UI components
-│   ├── IssueCard.jsx
-│   ├── IssueForm.jsx
-│   └── Navbar.jsx
-│
-├── pages/              # Route-level views
-│   ├── Dashboard.jsx
-│   ├── IssueDetail.jsx
-│   └── CreateEditIssue.jsx
-│
-├── services/           # Axios API calls
-│   └── api.js
-│
-├── App.js              # Routes and layout
-├── index.js
-└── App.css (or Tailwind setup)
+SEARCH ISSUE:
+![search](https://github.com/user-attachments/assets/4852feaf-6cbb-4fbc-bfa9-38e88f7c8df2)
